@@ -4,6 +4,8 @@ This is a list of all public speaking gigs I've done, ordered most recent to old
 
 As you can see I regularly take on new gigs in various format, in Estonia and abroad. If you'd like to invite me to speak, shoot me an email at [taivo@pungas.ee](mailto:taivo@pungas.ee).
 
+If the list below does not display properly (especially on mobile) please view it [in Google Sheets](https://docs.google.com/spreadsheets/d/1-g5s00HZbmamy2Rr_kb45fZ2zQCls-g-MEEL8kDnzBI/edit?usp=sharing).
+
 Title|Format|Time (min)|Date|Venue|City|Country|Slides|Video
 ---|---|---|---|---|---|---|---|---
 _tentative_|_talk_||_15.11.2019_|_Codetecon_|_Krakow_|_Poland_||
