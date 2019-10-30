@@ -65,3 +65,14 @@ How and why to study mathematics|talk|60|12.03.2013|Tartu Kutsehariduskeskus|Tar
 Studies and career opportunities in computer science and physics|talk|60|12.03.2013|Tartu Tamme Gümnaasium|Tartu|Estonia||
 Preparing the Estonian team for EUSO ’13 (experimental methods in physics)|workshop|240|28.02.2013||Tartu|Estonia||
 Preparing the Estonian team for EUSO ’13 (plotting and interpreting graphs)|workshop|120|14.02.2013||Tartu|Estonia||
+
+
+## Bio
+
+Taivo is Automation lead at Veriff, an Estonian startup offering online identity verification. In a year at Veriff, he's built up the Automation area solving many computer vision, engineering, and product problems along the way. Previously Taivo built software for self-driving robots at Starship and received a degree in Computer Science from ETH Zürich.
+
+## Links
+
+* [LinkedIn](https://www.linkedin.com/in/pungas/)
+* [Veriff](http://veriff.com/)
+* [taivo.ai](https://taivo.ai/) - personal blog which I fail to write to regularly
