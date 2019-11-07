@@ -8,9 +8,9 @@ If the list below does not display properly (especially on mobile) please view i
 
 Title|Format|Time (min)|Date|Venue|City|Country|Slides|Video
 ---|---|---|---|---|---|---|---|---
-_tentative_|_talk_||_15.11.2019_|_Codetecon_|_Krakow_|_Poland_||
-_tentative_|_talk_||_14.11.2019_|_Introduction to CS course at Institute of Computer Science_|_Tartu_|_Estonia_||
-_tentative_|_talk_||_07.11.2019_|_Mintos meetup_|_Riga_|_Latvia_||
+_tentative_|_talk_|_40_|_15.11.2019_|_Codetecon_|_Krakow_|_Poland_||
+_tentative_|_talk_|_45_|_14.11.2019_|_Introduction to CS course at Institute of Computer Science_|_Tartu_|_Estonia_||
+Machine Learning at Veriff: what is possible in a year?|talk|45|07.11.2019|devclub.lv meetup at Mintos|Riga|Latvia|[slides](https://docs.google.com/presentation/d/1az38AdrH5C0NeajBajOn6p8RRe8AzVj8VlSa5ghvJHw/edit?usp=sharing)|
 Future of e-Estonia: a young engineer’s view|talk|15|16.09.2019|Digital Agenda for Estonia 2021+|Tallinn|Estonia|[slides](https://docs.google.com/presentation/d/1bn-zeRZQgw7NzQY0UfEE0JpukdlZDw9PRoXSN3aS8RM/edit#slide=id.g609af933f3_0_20)|[video](https://www.youtube.com/watch?v=0Psq-G2SrJk)
 Data science|panel|60|27.08.2019|Digital Methods in Humanities and Social Sciences|Tartu|Estonia||
 What is Data Science|panel|90|09.08.2019|Arvamusfestival|Paide|Estonia||
