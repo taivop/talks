@@ -1,15 +1,29 @@
-# Talks I have given - Taivo Pungas
+# Public speaker - Taivo Pungas
 
-This is a list of all public speaking gigs I've done, ordered most recent to oldest.
+*Invite me to talk at your event.*
 
-As you can see I regularly take on new gigs in various format, in Estonia and abroad. If you'd like to invite me to speak, shoot me an email at [taivo@pungas.ee](mailto:taivo@pungas.ee).
+I often speak at events in Estonia and Europe, most often at technical or technology-related events. My typical topics are in the areas of:
+
+* applied machine learning;
+* automating human activity;
+* building technology teams;
+* statistical software development;
+* the story of Veriff.
+
+I've also given talks on non-tech topics like productivity, effective altruism, minimalism, and much more.
+
+If you'd like to invite me to speak, please fill out [this form](https://docs.google.com/forms/d/1wG6y8xJP2VcXYR31ptbBTkxCbl6CEEqNXFlK2KN9Qyg/viewform) and shoot me an email at [taivo@pungas.ee](mailto:taivo@pungas.ee).
+
+Below is a list of all public speaking gigs I've done, ordered most recent to oldest.
 
 If the list below does not display properly (especially on mobile) please view it [in Google Sheets](https://docs.google.com/spreadsheets/d/1-g5s00HZbmamy2Rr_kb45fZ2zQCls-g-MEEL8kDnzBI/edit?usp=sharing).
 
 Title|Format|Time (min)|Date|Venue|City|Country|Slides|Video
 ---|---|---|---|---|---|---|---|---
-_tentative_|_talk_|_40_|_15.11.2019_|_Codetecon_|_Krakow_|_Poland_||
-_tentative_|_talk_|_45_|_14.11.2019_|_Introduction to CS course at Institute of Computer Science_|_Tartu_|_Estonia_||
+_Machine Learning at Veriff: what is possible in a year?_|_talk_|_35_|_12.12.2019_|_Eesti Energia IT summit_|_Tallinn_|_Estonia_||
+_tentative - math in real life_|_talk/workshop_|_60_|_09.12.2019_|_MAT-INF tudengiselts_|_Tartu_|_Estonia_||
+Machine Learning at Veriff: what is possible in a year?|talk|40|15.11.2019|Codetecon|Krakow|Poland|[slides](https://docs.google.com/presentation/d/1TwUW40dpND_bxupVBEbT_1aYGf6Nv8PCMtflsQEygNw/edit?usp=sharing)|
+Student question-driven fireside chat|fireside|45|14.11.2019|Introduction to CS course at Institute of Computer Science|Tartu|Estonia||
 Machine Learning at Veriff: what is possible in a year?|talk|45|07.11.2019|devclub.lv meetup at Mintos|Riga|Latvia|[slides](https://docs.google.com/presentation/d/1az38AdrH5C0NeajBajOn6p8RRe8AzVj8VlSa5ghvJHw/edit?usp=sharing)|
 Future of e-Estonia: a young engineer’s view|talk|15|16.09.2019|Digital Agenda for Estonia 2021+|Tallinn|Estonia|[slides](https://docs.google.com/presentation/d/1bn-zeRZQgw7NzQY0UfEE0JpukdlZDw9PRoXSN3aS8RM/edit#slide=id.g609af933f3_0_20)|[video](https://www.youtube.com/watch?v=0Psq-G2SrJk)
 Data science|panel|60|27.08.2019|Digital Methods in Humanities and Social Sciences|Tartu|Estonia||
