@@ -7,6 +7,8 @@ import datetime
 import jinja2
 
 
+def pandas_series_string_join(s1, s2, sep=" "):
+    return s1.str.cat(others=[s2], sep=sep, na_rep="")
 
 def pandas_df_to_markdown_table(df):
     from IPython.display import Markdown, display
@@ -40,9 +42,12 @@ def main():
     list_of_values = sheet.get_all_values()
     df = pd.DataFrame(list_of_values[1:], columns=list_of_values[0])
 
-    df2 = df[["Title", "Format", "Time (min)", "Date", "Venue", "City", "Country", "Slides", "Video"]]
-    df2["Slides"] = df2["Slides"].map(slides_link)
-    df2["Video"] = df2["Video"].map(video_link)
+    df2 = df[["Title", "Format", "Time (min)", "Date", "Venue"]]
+    df2["Location"] = pandas_series_string_join(df["City"], df["Country"], sep=", ")
+
+    col_slides = df["Slides"].map(slides_link)
+    col_video = df["Video"].map(video_link)
+    df2["Links"] = pandas_series_string_join(col_slides, col_video)
 
     df2 = df2.iloc[::-1] # reverse row order
 
