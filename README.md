@@ -20,14 +20,14 @@ If the list below does not display properly (especially on mobile) please view i
 
 Title|Format|Time (min)|Date|Venue|Location|Links
 ---|---|---|---|---|---|---
-How To Build Your AI Startup|fireside|60|02.06.2020|Superangel webinar|, online| [video](https://www.facebook.com/superangel.io/videos/253185132569907)
-Machine Learning at Veriff|talk|30|30.01.2020|Välisministeerium|Tallinn, Estonia|[slides](https://docs.google.com/presentation/d/1QuL2jl5PE_HmMQQbzd16EI_L8RReq3H1r8y-A6Fwlzo/) 
+How To Build Your AI Startup|fireside|60|02.06.2020|Superangel webinar|online, Zoom| [video](https://www.facebook.com/superangel.io/videos/253185132569907)
+Machine Learning at Veriff|talk|30|30.01.2020|Ministry of Foreign Affairs|Tallinn, Estonia|[slides](https://docs.google.com/presentation/d/1QuL2jl5PE_HmMQQbzd16EI_L8RReq3H1r8y-A6Fwlzo/) 
 AI safety basics|workshop|60|13.12.2019|Effective Altruism meetup|Tallinn, Estonia|[slides](https://docs.google.com/presentation/d/1xw5bajHpRSdITxpSPXghZrCZI_aOtRAB_k1SMoO8g6A/edit?folder=0ALYkQpxP3xZOUk9PVA#slide=id.g6c74758f8e_0_121) 
 Machine Learning at Veriff: what is possible in a year?|talk|35|12.12.2019|Eesti Energia IT summit|Tallinn, Estonia|[slides](https://docs.google.com/presentation/d/1csJkm8ilDLkyGAFbdw6ZsuceYyEiWxZd8mXTDA0apjI/edit?usp=sharing) 
 How math is useful in my life and work|talk/workshop|45|09.12.2019|MAT-INF tudengiselts|Tartu, Estonia| 
 Machine Learning at Veriff: what is possible in a year?|talk|40|15.11.2019|Codetecon|Krakow, Poland|[slides](https://docs.google.com/presentation/d/1TwUW40dpND_bxupVBEbT_1aYGf6Nv8PCMtflsQEygNw/edit?usp=sharing) 
 Student question-driven fireside chat|fireside|45|14.11.2019|Introduction to CS course at Institute of Computer Science|Tartu, Estonia| 
-Machine Learning at Veriff: what is possible in a year?|talk|45|07.11.2019|devclub.lv meetup at Mintos|Riga, Latvia|[slides](https://docs.google.com/presentation/d/1az38AdrH5C0NeajBajOn6p8RRe8AzVj8VlSa5ghvJHw/edit?usp=sharing) [video](https://www.facebook.com/DevClubLV/posts/2619111934875460?__xts__%5B0%5D=68.ARDtJVE9uul49ufUTLFjWw6DOCaVeYivZ6Iw9qqR5sSXZcC7DfPSuCrRjh_8yuw1Sp77PJWvg7QRVRL3rt2L6GkhozhcumEmHnedr5HvywMgPR6nOSo6OXqle_BCC0zIHyk7iUAFIEa3AhElFkaomx0kERW2irD4Thby2qpvXbf_kWkx-I6xgz-HwTxZYhACcXILxQ2ZwRv4f02KZi90p6AhT9JFtJaaSN0HXl39JBC5jpAByMneVLXalyjeBpBAOan5888UrW4XLItHlfbcYOT_nZMCosHwF1VxjJ2XOC-dbAColqsBGEGvPMlrG53N7CgEf94Mu0bJgBinhitvye9KCBSX8J7llzNRm8eZgzf51wtA6CrYlSfQwTZNBFvPTa7agM7ZNutUyPhZNBBcokJVIJaNKYfKxL_eTP11PoiseAC4TzGur8-5mBM9O3DJoGqKzerwl2Ic9ohUTD-X4MOh2Eip7iv7ErcXwgA5fx6W_W9ysQ&__tn__=-R)
+Machine Learning at Veriff: what is possible in a year?|talk|45|07.11.2019|devclub.lv meetup at Mintos|Riga, Latvia|[slides](https://docs.google.com/presentation/d/1az38AdrH5C0NeajBajOn6p8RRe8AzVj8VlSa5ghvJHw/edit?usp=sharing) [video](https://www.youtube.com/watch?v=AEXvvG8zI1o)
 Future of e-Estonia: a young engineer’s view|talk|15|16.09.2019|Digital Agenda for Estonia 2021+|Tallinn, Estonia|[slides](https://docs.google.com/presentation/d/1bn-zeRZQgw7NzQY0UfEE0JpukdlZDw9PRoXSN3aS8RM/edit#slide=id.g609af933f3_0_20) [video](https://www.youtube.com/watch?v=0Psq-G2SrJk)
 Data science|panel|60|27.08.2019|Digital Methods in Humanities and Social Sciences|Tartu, Estonia| 
 What is Data Science|panel|90|09.08.2019|Arvamusfestival|Paide, Estonia| 
