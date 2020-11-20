@@ -16,8 +16,6 @@ If you'd like to invite me to speak, please fill out [this form](https://docs.go
 
 Below is a list of all public speaking gigs I've done, ordered most recent to oldest.
 
-If the list below does not display properly (especially on mobile) please view it [in Google Sheets](https://docs.google.com/spreadsheets/d/1-g5s00HZbmamy2Rr_kb45fZ2zQCls-g-MEEL8kDnzBI/edit?usp=sharing).
-
 Title|Format|Time (min)|Date|Venue|Location|Links
 ---|---|---|---|---|---|---
 Datasets: the source code of Software 2.0|talk|25|19.11.2020|ICS Data Science Seminar|Tartu, Estonia|[slides](https://docs.google.com/presentation/d/1SzBec3Jsh7yv2NgjuHDfSX7vvmuiGP6FTNoHuhakX7I/edit?usp=sharing) 
