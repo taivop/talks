@@ -20,6 +20,8 @@ If the list below does not display properly (especially on mobile) please view i
 
 Title|Format|Time (min)|Date|Venue|Location|Links
 ---|---|---|---|---|---|---
+Datasets: the source code of Software 2.0|talk|25|19.11.2020|ICS Data Science Seminar|Tartu, Estonia|[slides](https://docs.google.com/presentation/d/1SzBec3Jsh7yv2NgjuHDfSX7vvmuiGP6FTNoHuhakX7I/edit?usp=sharing) 
+Kas andmed juhivad meid või meie andmeid?|panel|90|14.08.2020|Arvamusfestival|Paide, Estonia| [video](https://digitark.ee/arvamusfestival/)
 How To Build Your AI Startup|fireside|60|02.06.2020|Superangel webinar|online, Zoom| [video](https://www.facebook.com/superangel.io/videos/253185132569907)
 Machine Learning at Veriff|talk|30|30.01.2020|Ministry of Foreign Affairs|Tallinn, Estonia|[slides](https://docs.google.com/presentation/d/1QuL2jl5PE_HmMQQbzd16EI_L8RReq3H1r8y-A6Fwlzo/) 
 AI safety basics|workshop|60|13.12.2019|Effective Altruism meetup|Tallinn, Estonia|[slides](https://docs.google.com/presentation/d/1xw5bajHpRSdITxpSPXghZrCZI_aOtRAB_k1SMoO8g6A/edit?folder=0ALYkQpxP3xZOUk9PVA#slide=id.g6c74758f8e_0_121) 
