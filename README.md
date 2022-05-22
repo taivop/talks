@@ -16,11 +16,18 @@ If you'd like to invite me to speak, please fill out [this form](https://docs.go
 
 Below is a list of all public speaking gigs I've done, ordered most recent to oldest.
 
+If the list below does not display properly (especially on mobile) please view it [in Google Sheets](https://docs.google.com/spreadsheets/d/1-g5s00HZbmamy2Rr_kb45fZ2zQCls-g-MEEL8kDnzBI/edit?usp=sharing).
+
 Title|Format|Time (min)|Date|Venue|Location|Links
 ---|---|---|---|---|---|---
-Datasets: the source code of Software 2.0|talk|25|19.11.2020|ICS Data Science Seminar|Tartu, Estonia|[slides](https://docs.google.com/presentation/d/1SzBec3Jsh7yv2NgjuHDfSX7vvmuiGP6FTNoHuhakX7I/edit?usp=sharing) 
+NFTPort How to Bring your NFT Game to Market in Hours|virtual workshop|20|04.03.2022|ETHGlobal BuildQuest hackathon|online, -| [video](https://www.youtube.com/watch?v=sDKegkOtKVg)
+NFTPort: How to Bring your NFT Application to Market in Hours|virtual workshop|30|04.02.2022|ETHGlobal Road to Web3 hackathon|online, -| [video](https://www.youtube.com/watch?v=gbfei58_HsE)
+Nazari Goudin podcast (topic: AI)|podcast|165|11.01.2022|Goudin podcast|online, -| [video](https://www.youtube.com/watch?v=zi6X6fl-CoM)
+DataCast|podcast|77|26.09.2021|DataCast podcast|online, -| [video](https://jameskle.com/writes/taivo-pungas)
+The Best Approach to Data|fireside|60|03.03.2021|Growth School|online, Facebook| [video](https://www.facebook.com/watch/live/?v=426179415332439)
+Datasets: the source code of Software 2.0|talk|25|19.11.2020|ICS Data Science Seminar|Tartu, Estonia|[slides](https://docs.google.com/presentation/d/1SzBec3Jsh7yv2NgjuHDfSX7vvmuiGP6FTNoHuhakX7I/edit?usp=sharing) [video](https://www.youtube.com/watch?v=k48P5xtLEIk&feature=youtu.be)
 Kas andmed juhivad meid või meie andmeid?|panel|90|14.08.2020|Arvamusfestival|Paide, Estonia| [video](https://digitark.ee/arvamusfestival/)
-How To Build Your AI Startup|fireside|60|02.06.2020|Superangel webinar|online, Zoom| [video](https://www.facebook.com/superangel.io/videos/253185132569907)
+How To Build Your AI Startup|fireside|60|02.06.2020|Superangel webinar|online, Facebook| [video](https://www.youtube.com/watch?v=kFHv8ylyNZg)
 Machine Learning at Veriff|talk|30|30.01.2020|Ministry of Foreign Affairs|Tallinn, Estonia|[slides](https://docs.google.com/presentation/d/1QuL2jl5PE_HmMQQbzd16EI_L8RReq3H1r8y-A6Fwlzo/) 
 AI safety basics|workshop|60|13.12.2019|Effective Altruism meetup|Tallinn, Estonia|[slides](https://docs.google.com/presentation/d/1xw5bajHpRSdITxpSPXghZrCZI_aOtRAB_k1SMoO8g6A/edit?folder=0ALYkQpxP3xZOUk9PVA#slide=id.g6c74758f8e_0_121) 
 Machine Learning at Veriff: what is possible in a year?|talk|35|12.12.2019|Eesti Energia IT summit|Tallinn, Estonia|[slides](https://docs.google.com/presentation/d/1csJkm8ilDLkyGAFbdw6ZsuceYyEiWxZd8mXTDA0apjI/edit?usp=sharing) 
@@ -86,7 +93,7 @@ Preparing the Estonian team for EUSO ’13 (plotting and interpreting graphs)|wo
 
 ## Bio
 
-Taivo is Automation lead at Veriff, an Estonian startup offering online identity verification. In a year at Veriff, he's built up the Automation area solving many computer vision, engineering, and product problems along the way. Previously Taivo built software for self-driving robots at Starship and received a degree in Computer Science from ETH Zürich.
+Taivo is a tech entrepreneur working on a stealth-mode startup. Previously, he built the AI team at Veriff from scratch to 20+ people, and contributed in various ML/data roles at Starship and other Estonian startups. On the side, he advises startups and writes a blog at taivo.ai.
 
 ## Links
 
