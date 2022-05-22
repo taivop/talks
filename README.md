@@ -12,7 +12,9 @@ I've also given talks on non-tech topics like productivity, effective altruism, 
 
 If you'd like to invite me to speak, please shoot me an email at [taivo@pungas.ee](mailto:taivo@pungas.ee).
 
-Below is a list of all public speaking gigs I've done, ordered most recent to oldest.
+## Talks
+
+Below is a list of all public speaking gigs I've done, ordered from most recent to oldest.
 
 If the list below does not display properly (especially on mobile) please view it [in Google Sheets](https://docs.google.com/spreadsheets/d/1-g5s00HZbmamy2Rr_kb45fZ2zQCls-g-MEEL8kDnzBI/edit?usp=sharing).
 
