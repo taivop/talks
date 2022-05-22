@@ -4,15 +4,13 @@
 
 I often speak at events in Estonia and Europe, most often at technical or technology-related events. My typical topics are in the areas of:
 
-* applied machine learning;
-* automating human activity;
-* building technology teams;
-* statistical software development;
-* the story of Veriff.
+* my experiences with applied machine learning and automating human activity at Veriff and Starship;
+* the story of my [startup year](https://www.taivo.ai/startup-year/);
+* building technology teams and products at NFTPort, Veriff, and my own startup attempts.
 
 I've also given talks on non-tech topics like productivity, effective altruism, minimalism, and much more.
 
-If you'd like to invite me to speak, please fill out [this form](https://docs.google.com/forms/d/1wG6y8xJP2VcXYR31ptbBTkxCbl6CEEqNXFlK2KN9Qyg/viewform) and shoot me an email at [taivo@pungas.ee](mailto:taivo@pungas.ee).
+If you'd like to invite me to speak, please shoot me an email at [taivo@pungas.ee](mailto:taivo@pungas.ee).
 
 Below is a list of all public speaking gigs I've done, ordered most recent to oldest.
 
@@ -20,10 +18,11 @@ If the list below does not display properly (especially on mobile) please view i
 
 Title|Format|Time (min)|Date|Venue|Location|Links
 ---|---|---|---|---|---|---
-NFTPort How to Bring your NFT Game to Market in Hours|virtual workshop|20|04.03.2022|ETHGlobal BuildQuest hackathon|online, -| [video](https://www.youtube.com/watch?v=sDKegkOtKVg)
+Let's Talk About Founder Taboos|talk|60|07.04.2022|Berlin Startup School|online, -| 
+NFTPort: How to Bring your NFT Game to Market in Hours|virtual workshop|20|04.03.2022|ETHGlobal BuildQuest hackathon|online, -| [video](https://www.youtube.com/watch?v=sDKegkOtKVg)
 NFTPort: How to Bring your NFT Application to Market in Hours|virtual workshop|30|04.02.2022|ETHGlobal Road to Web3 hackathon|online, -| [video](https://www.youtube.com/watch?v=gbfei58_HsE)
 Nazari Goudin podcast (topic: AI)|podcast|165|11.01.2022|Goudin podcast|online, -| [video](https://www.youtube.com/watch?v=zi6X6fl-CoM)
-DataCast|podcast|77|26.09.2021|DataCast podcast|online, -| [video](https://jameskle.com/writes/taivo-pungas)
+Datasets for Software 2.0|podcast|77|26.09.2021|DataCast podcast|online, -| [video](https://jameskle.com/writes/taivo-pungas)
 The Best Approach to Data|fireside|60|03.03.2021|Growth School|online, Facebook| [video](https://www.facebook.com/watch/live/?v=426179415332439)
 Datasets: the source code of Software 2.0|talk|25|19.11.2020|ICS Data Science Seminar|Tartu, Estonia|[slides](https://docs.google.com/presentation/d/1SzBec3Jsh7yv2NgjuHDfSX7vvmuiGP6FTNoHuhakX7I/edit?usp=sharing) [video](https://www.youtube.com/watch?v=k48P5xtLEIk&feature=youtu.be)
 Kas andmed juhivad meid või meie andmeid?|panel|90|14.08.2020|Arvamusfestival|Paide, Estonia| [video](https://digitark.ee/arvamusfestival/)
@@ -91,12 +90,7 @@ Preparing the Estonian team for EUSO ’13 (experimental methods in physics)|wor
 Preparing the Estonian team for EUSO ’13 (plotting and interpreting graphs)|workshop|120|14.02.2013||Tartu, Estonia| 
 
 
-## Bio
-
-Taivo is a tech entrepreneur working on a stealth-mode startup. Previously, he built the AI team at Veriff from scratch to 20+ people, and contributed in various ML/data roles at Starship and other Estonian startups. On the side, he advises startups and writes a blog at taivo.ai.
-
 ## Links
 
+* [taivo.ai](https://taivo.ai/) - personal blog
 * [LinkedIn](https://www.linkedin.com/in/pungas/)
-* [Veriff](http://veriff.com/)
-* [taivo.ai](https://taivo.ai/) - personal blog which I fail to write to regularly
