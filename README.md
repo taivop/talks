@@ -20,6 +20,9 @@ If the list below does not display properly (especially on mobile) please view i
 
 Title|Format|Time (min)|Date|Venue|Location|Links
 ---|---|---|---|---|---|---
+Hands-on integrating NFTPort with Unity|talk|30|30.10.2022|IPFS camp|Lisbon, Portugal|[slides](https://docs.google.com/presentation/d/1jojQn5FJjK6QGRcChzX_a4SnAGAgnJpmR70a_hYTGf8/edit#slide=id.p) [video](https://www.youtube.com/watch?v=HNSsH2UYf2E)
+Why and what to build with NFTs|talk|40|10.08.2022|Hüppelaud|Tallinn, Estonia| 
+Vehicle Fraudsters podcast|podcast|30|26.07.2022|Vehicle Fraudsters podcast|online, -| [video](https://open.spotify.com/show/4yQk64Qvd6M2WRgESbSbOG?si=a7cf6a2b4eaa4800&nd=1)
 Let's Talk About Founder Taboos|talk|60|07.04.2022|Berlin Startup School|online, -| 
 NFTPort: How to Bring your NFT Game to Market in Hours|virtual workshop|20|04.03.2022|ETHGlobal BuildQuest hackathon|online, -| [video](https://www.youtube.com/watch?v=sDKegkOtKVg)
 NFTPort: How to Bring your NFT Application to Market in Hours|virtual workshop|30|04.02.2022|ETHGlobal Road to Web3 hackathon|online, -| [video](https://www.youtube.com/watch?v=gbfei58_HsE)
