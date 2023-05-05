@@ -4,9 +4,10 @@
 
 For 10+ years I've been speaking at events in Estonia and Europe, usually at technical or technology-related events. My typical topics are in the areas of:
 
-* my experiences with applied machine learning and automating human activity at Veriff and Starship;
+* my work in building AI and automating human activity at Veriff and Starship and elsewhere;
 * the story of my [startup year](https://www.taivo.ai/startup-year/);
-* building technology teams and products at NFTPort, Veriff, and during own startup attempts.
+* the future, present, and past of AI;
+* building technology teams and products.
 
 I've also given talks on non-tech topics like productivity, effective altruism, minimalism, and much more.
 
