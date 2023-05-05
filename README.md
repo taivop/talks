@@ -2,13 +2,15 @@
 
 *Invite me to talk at your event.*
 
-I often speak at events in Estonia and Europe, most often at technical or technology-related events. My typical topics are in the areas of:
+For 10+ years I've been speaking at events in Estonia and Europe, usually at technical or technology-related events. My typical topics are in the areas of:
 
 * my experiences with applied machine learning and automating human activity at Veriff and Starship;
 * the story of my [startup year](https://www.taivo.ai/startup-year/);
-* building technology teams and products at NFTPort, Veriff, and my own startup attempts.
+* building technology teams and products at NFTPort, Veriff, and during own startup attempts.
 
 I've also given talks on non-tech topics like productivity, effective altruism, minimalism, and much more.
+
+Recently (2023-ish) I spend more time talking in less formal environments like closed meetups and other small groups.
 
 If you'd like to invite me to speak, please shoot me an email at [taivo@pungas.ee](mailto:taivo@pungas.ee).
 
@@ -20,6 +22,10 @@ If the list below does not display properly (especially on mobile) please view i
 
 Title|Format|Time (min)|Date|Venue|Location|Links
 ---|---|---|---|---|---|---
+Kas tehisintellekt võib maailma üle võtta|TV interview|9|31.03.2023|"TV3 show ""Stuudio"""|Tallinn, Estonia| [video](https://play.tv3.ee/Uudised/intervjuu,clip-5386342)
+Chain-of-thought: from zero to Agents|talk|20|28.03.2023|LLM meetup|Tallinn, Estonia|[slides](https://docs.google.com/presentation/d/1ZoLlIOK8r7X8il0rVI3BOdfZppIboJ6d7OcH-1r-UP4/edit) 
+Recruitment at NFTPort|podcast|50|03.03.2023|TalentHub podcast|Tallinn, Estonia| [video](https://www.youtube.com/watch?v=cGzxFMAcNtA)
+What will be the impact of AI on education in 10 years?|panel|45|17.02.2023|IT-education conference by Minisry of Education|Tallinn, Estonia| 
 Hands-on integrating NFTPort with Unity|talk|30|30.10.2022|IPFS camp|Lisbon, Portugal|[slides](https://docs.google.com/presentation/d/1jojQn5FJjK6QGRcChzX_a4SnAGAgnJpmR70a_hYTGf8/edit#slide=id.p) [video](https://www.youtube.com/watch?v=HNSsH2UYf2E)
 Why and what to build with NFTs|talk|40|10.08.2022|Hüppelaud|Tallinn, Estonia| 
 Vehicle Fraudsters podcast|podcast|30|26.07.2022|Vehicle Fraudsters podcast|online, -| [video](https://open.spotify.com/show/4yQk64Qvd6M2WRgESbSbOG?si=a7cf6a2b4eaa4800&nd=1)
