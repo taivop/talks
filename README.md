@@ -23,6 +23,10 @@ If the list below does not display properly (especially on mobile) please view i
 
 Title|Format|Time (min)|Date|Venue|Location|Links
 ---|---|---|---|---|---|---
+Speeding up LLM responses|talk|30|16.08.2023|Practical GenAI meetup|Berlin, Germany|[slides](https://docs.google.com/presentation/d/1SUBOhA8jMkTcPZ4Ysu7dpPSloCDWxgqBFm1i-RVB71Y) 
+Man vs Machine|panel|45|08.06.2023|Telia|Tallinn, Estonia| 
+From mind to machine: Exploring the cutting-edge of Generative AI and its possibilities for the future|panel|45|29.05.2023|Latitude 59|Tallinn, Estonia| 
+Context and current state of AI|talk|90|10.05.2023|Estonian Business School|Tallinn, Estonia| 
 Kas tehisintellekt võib maailma üle võtta|TV interview|9|31.03.2023|"TV3 show ""Stuudio"""|Tallinn, Estonia| [video](https://play.tv3.ee/Uudised/intervjuu,clip-5386342)
 Chain-of-thought: from zero to Agents|talk|20|28.03.2023|LLM meetup|Tallinn, Estonia|[slides](https://docs.google.com/presentation/d/1ZoLlIOK8r7X8il0rVI3BOdfZppIboJ6d7OcH-1r-UP4/edit) 
 Recruitment at NFTPort|podcast|50|03.03.2023|TalentHub podcast|Tallinn, Estonia| [video](https://www.youtube.com/watch?v=cGzxFMAcNtA)
