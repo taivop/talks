@@ -30,7 +30,7 @@ Context and current state of AI|talk|90|10.05.2023|Estonian Business School|Tall
 Kas tehisintellekt võib maailma üle võtta|TV interview|9|31.03.2023|"TV3 show ""Stuudio"""|Tallinn, Estonia| [video](https://play.tv3.ee/Uudised/intervjuu,clip-5386342)
 Chain-of-thought: from zero to Agents|talk|20|28.03.2023|LLM meetup|Tallinn, Estonia|[slides](https://docs.google.com/presentation/d/1ZoLlIOK8r7X8il0rVI3BOdfZppIboJ6d7OcH-1r-UP4/edit) 
 Recruitment at NFTPort|podcast|50|03.03.2023|TalentHub podcast|Tallinn, Estonia| [video](https://www.youtube.com/watch?v=cGzxFMAcNtA)
-What will be the impact of AI on education in 10 years?|panel|45|17.02.2023|IT-education conference by Minisry of Education|Tallinn, Estonia| 
+What will be the impact of AI on education in 10 years?|panel|45|17.02.2023|IT-education conference by Minisry of Education|Tallinn, Estonia| [video](https://www.youtube.com/watch?v=_oHtNj1YHhE)
 Hands-on integrating NFTPort with Unity|talk|30|30.10.2022|IPFS camp|Lisbon, Portugal|[slides](https://docs.google.com/presentation/d/1jojQn5FJjK6QGRcChzX_a4SnAGAgnJpmR70a_hYTGf8/edit#slide=id.p) [video](https://www.youtube.com/watch?v=HNSsH2UYf2E)
 Why and what to build with NFTs|talk|40|10.08.2022|Hüppelaud|Tallinn, Estonia| 
 Vehicle Fraudsters podcast|podcast|30|26.07.2022|Vehicle Fraudsters podcast|online, -| [video](https://open.spotify.com/show/4yQk64Qvd6M2WRgESbSbOG?si=a7cf6a2b4eaa4800&nd=1)
