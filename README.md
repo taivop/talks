@@ -2,16 +2,18 @@
 
 *Invite me to talk at your event.*
 
-For 10+ years I've been speaking at events in Estonia and Europe, usually at technical or technology-related events. My typical topics are in the areas of:
+For 10+ years I've been speaking at events in Estonia and Europe, usually at technical or technology-related events. I seem to do around 10 talks per year, depending on how busy I am.
+
+My typical topics are in the areas of:
 
 * my work in building AI and automating human activity at Veriff and Starship and elsewhere;
-* the story of my [startup year](https://www.taivo.ai/startup-year/);
+* the stories of my startups;
 * the future, present, and past of AI;
 * building technology teams and products.
 
 I've also given talks on non-tech topics like productivity, effective altruism, minimalism, and much more.
 
-Recently (2023-ish) I spend more time talking in less formal environments like closed meetups and other small groups.
+Recently (2023-ish) I spend more time talking in less formal environments like private meetups and other small groups.
 
 If you'd like to invite me to speak, please shoot me an email at [taivo@pungas.ee](mailto:taivo@pungas.ee).
 
@@ -25,7 +27,7 @@ Title|Format|Time (min)|Date|Venue|Location|Links
 ---|---|---|---|---|---|---
 Speeding up LLM responses|talk|30|16.08.2023|Practical GenAI meetup|Berlin, Germany|[slides](https://docs.google.com/presentation/d/1SUBOhA8jMkTcPZ4Ysu7dpPSloCDWxgqBFm1i-RVB71Y) 
 Man vs Machine|panel|45|08.06.2023|Telia|Tallinn, Estonia| 
-From mind to machine: Exploring the cutting-edge of Generative AI and its possibilities for the future|panel|45|29.05.2023|Latitude 59|Tallinn, Estonia| 
+From mind to machine: Exploring the cutting-edge of Generative AI and its possibilities for the future|panel|45|29.05.2023|Latitude 59|Tallinn, Estonia| [video](https://www.youtube.com/watch?v=FAJ9NjK5KGg)
 Context and current state of AI|talk|90|10.05.2023|Estonian Business School|Tallinn, Estonia| 
 Kas tehisintellekt võib maailma üle võtta|TV interview|9|31.03.2023|"TV3 show ""Stuudio"""|Tallinn, Estonia| [video](https://play.tv3.ee/Uudised/intervjuu,clip-5386342)
 Chain-of-thought: from zero to Agents|talk|20|28.03.2023|LLM meetup|Tallinn, Estonia|[slides](https://docs.google.com/presentation/d/1ZoLlIOK8r7X8il0rVI3BOdfZppIboJ6d7OcH-1r-UP4/edit) 
@@ -106,7 +108,7 @@ Preparing the Estonian team for EUSO ’13 (experimental methods in physics)|wor
 Preparing the Estonian team for EUSO ’13 (plotting and interpreting graphs)|workshop|120|14.02.2013||Tartu, Estonia| 
 
 
-## Links
+## Contact
 
 * [taivo.ai](https://taivo.ai/) - personal blog
 * [LinkedIn](https://www.linkedin.com/in/pungas/)
