@@ -25,6 +25,9 @@ If the list below does not display properly (especially on mobile) please view i
 
 Title|Format|Time (min)|Date|Venue|Location|Links
 ---|---|---|---|---|---|---
+Beyond Prototypes: Shipping Trustworthy AI|keynote talk|60|15.05.2025|Nordic Testing Days conference|Tallinn, Estonia|[slides](https://gamma.app/docs/Beyond-Prototypes-NTD-15052025-2mgh8vlwerx7wgt) 
+Beyond Prototypes: Solving Complex Problems With Software|workshop|60|09.05.2025|Digit conference|Tartu, Estonia|[slides](https://gamma.app/docs/Beyond-Prototypes-Digit-conf-09052025-5cs5di62bw7dufe) 
+AGI panel|panel|60|29.04.2025|EstoniaAI meetup|Tallinn, Estonia| 
 Speeding up LLM responses|talk|30|16.08.2023|Practical GenAI meetup|Berlin, Germany|[slides](https://docs.google.com/presentation/d/1SUBOhA8jMkTcPZ4Ysu7dpPSloCDWxgqBFm1i-RVB71Y) 
 Man vs Machine|panel|45|08.06.2023|Telia|Tallinn, Estonia| 
 From mind to machine: Exploring the cutting-edge of Generative AI and its possibilities for the future|panel|45|29.05.2023|Latitude 59|Tallinn, Estonia| [video](https://www.youtube.com/watch?v=FAJ9NjK5KGg)
@@ -42,7 +45,7 @@ NFTPort: How to Bring your NFT Application to Market in Hours|virtual workshop|3
 Nazari Goudin podcast (topic: AI)|podcast|165|11.01.2022|Goudin podcast|online, -| [video](https://www.youtube.com/watch?v=zi6X6fl-CoM)
 Datasets for Software 2.0|podcast|77|26.09.2021|DataCast podcast|online, -| [video](https://jameskle.com/writes/taivo-pungas)
 The Best Approach to Data|fireside|60|03.03.2021|Growth School|online, Facebook| [video](https://www.facebook.com/watch/live/?v=426179415332439)
-Datasets: the source code of Software 2.0|talk|25|19.11.2020|ICS Data Science Seminar|Tartu, Estonia|[slides](https://docs.google.com/presentation/d/1SzBec3Jsh7yv2NgjuHDfSX7vvmuiGP6FTNoHuhakX7I/edit?usp=sharing) [video](https://www.youtube.com/watch?v=k48P5xtLEIk&feature=youtu.be)
+Datasets: the source code of Software 2.0|talk|25|19.11.2020|ICS Data Science Seminar|Tartu, Estonia|[slides](https://docs.google.com/presentation/d/1SzBec3Jsh7yv2NgjuHDfSX7vvmuiGP6FTNoHuhakX7I/edit?usp=sharing) [video](https://youtu.be/k48P5xtLEIk?si=2a7wdiDxdT7sYCDI&t=5530)
 Kas andmed juhivad meid või meie andmeid?|panel|90|14.08.2020|Arvamusfestival|Paide, Estonia| [video](https://digitark.ee/arvamusfestival/)
 How To Build Your AI Startup|fireside|60|02.06.2020|Superangel webinar|online, Facebook| [video](https://www.youtube.com/watch?v=kFHv8ylyNZg)
 Machine Learning at Veriff|talk|30|30.01.2020|Ministry of Foreign Affairs|Tallinn, Estonia|[slides](https://docs.google.com/presentation/d/1QuL2jl5PE_HmMQQbzd16EI_L8RReq3H1r8y-A6Fwlzo/) 
