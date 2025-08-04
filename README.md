@@ -25,6 +25,7 @@ If the list below does not display properly (especially on mobile) please view i
 
 Title|Format|Time (min)|Date|Venue|Location|Links
 ---|---|---|---|---|---|---
+Impact of AI on the education and economy of Estonia in the next deca |panel|90|04.07.2025|Estonia's Friends International Meeting|Tallinn, Estonia| 
 Beyond Prototypes: Shipping Trustworthy AI|keynote talk|60|15.05.2025|Nordic Testing Days conference|Tallinn, Estonia|[slides](https://gamma.app/docs/Beyond-Prototypes-NTD-15052025-2mgh8vlwerx7wgt) 
 Beyond Prototypes: Solving Complex Problems With Software|workshop|60|09.05.2025|Digit conference|Tartu, Estonia|[slides](https://gamma.app/docs/Beyond-Prototypes-Digit-conf-09052025-5cs5di62bw7dufe) 
 AGI panel|panel|60|29.04.2025|EstoniaAI meetup|Tallinn, Estonia| 
