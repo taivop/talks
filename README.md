@@ -13,8 +13,6 @@ My typical topics are in the areas of:
 
 I've also given talks on non-tech topics like productivity, effective altruism, minimalism, and much more.
 
-Recently (2023-ish) I spend more time talking in less formal environments like private meetups and other small groups.
-
 If you'd like to invite me to speak, please shoot me an email at [taivo@pungas.ee](mailto:taivo@pungas.ee).
 
 ## Talks
@@ -119,7 +117,17 @@ Preparing the Estonian team for EUSO ’13 (experimental methods in physics)|wor
 Preparing the Estonian team for EUSO ’13 (plotting and interpreting graphs)|workshop|120|14.02.2013||Tartu, Estonia| 
 
 
-## Contact
 
-* [taivo.ai](https://taivo.ai/) - personal blog
+## Bio
+
+Please see my [About](https://www.taivo.ai/about/) page for a short bio, and [LinkedIn](https://www.linkedin.com/in/pungas/) for details.
+
+## Speaker photos
+
+Please see [/photos] for two types of headshots. I prefer using the cartoon image where possible.
+
+
+## Contact
+* Email: [taivo@pungas.ee](mailto:taivo@pungas.ee)
+* Personal blog: [taivo.ai](https://taivo.ai/)
 * [LinkedIn](https://www.linkedin.com/in/pungas/)
