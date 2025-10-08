@@ -21,7 +21,7 @@ Please see my [About](https://www.taivo.ai/about/) page for a short bio, and [Li
 
 ## Speaker photos
 
-Please see [/photos] for two types of headshots. I prefer using the cartoon image where possible.
+Please see [this folder](/photos) for two types of headshots. I prefer using the cartoon image where possible.
 
 
 ## Contact
