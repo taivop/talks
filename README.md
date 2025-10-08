@@ -25,6 +25,13 @@ If the list below does not display properly (especially on mobile) please view i
 
 Title|Format|Time (min)|Date|Venue|Location|Links
 ---|---|---|---|---|---|---
+The Founder’s Story Tallinn|panel|60|08.10.2025|Google Founder Stories|Tallinn, Estonia| 
+Lightyear investment festival |panel|60|25.09.2025|Lightyear|Budapest, Hungary| 
+What can you really do with AI?|fireside|45|13.09.2025|TECHnically a conference|Tallinn, Estonia| 
+Impact of AI on what is valuable in the future|talk|30|12.09.2025|International conference on science instruction|Tallinn, Estonia| 
+Panel on AI [in Procurement]|panel|45|05.09.2025|Aalto EMBA student study trip|Tallinn, Estonia| 
+AI ranch podcast|podcast|60|26.08.2025|AI ranch podcast|Tallinn, Estonia| [video](https://www.youtube.com/watch?v=PRqZ_5UvcvA)
+My startup attempts|talk|60|08.08.2025|Hüppelaud|Kuressaare, Estonia|[slides](https://docs.google.com/presentation/d/132HGxOMhSyN2yJOHflcg3w7F8j0y6bRBrWxm_NzJ0rc/edit?slide=id.g3739904ddb7_0_0#slide=id.g3739904ddb7_0_0) 
 Impact of AI on the education and economy of Estonia in the next deca |panel|90|04.07.2025|Estonia's Friends International Meeting|Tallinn, Estonia| 
 Beyond Prototypes: Shipping Trustworthy AI|keynote talk|60|15.05.2025|Nordic Testing Days conference|Tallinn, Estonia|[slides](https://gamma.app/docs/Beyond-Prototypes-NTD-15052025-2mgh8vlwerx7wgt) 
 Beyond Prototypes: Solving Complex Problems With Software|workshop|60|09.05.2025|Digit conference|Tartu, Estonia|[slides](https://gamma.app/docs/Beyond-Prototypes-Digit-conf-09052025-5cs5di62bw7dufe) 
