@@ -15,6 +15,21 @@ I've also given talks on non-tech topics like productivity, effective altruism, 
 
 If you'd like to invite me to speak, please shoot me an email at [taivo@pungas.ee](mailto:taivo@pungas.ee).
 
+## Bio
+
+Please see my [About](https://www.taivo.ai/about/) page for a short bio, and [LinkedIn](https://www.linkedin.com/in/pungas/) for details.
+
+## Speaker photos
+
+Please see [/photos] for two types of headshots. I prefer using the cartoon image where possible.
+
+
+## Contact
+* Email: [taivo@pungas.ee](mailto:taivo@pungas.ee)
+* Personal blog: [taivo.ai](https://taivo.ai/)
+* [LinkedIn](https://www.linkedin.com/in/pungas/)
+
+
 ## Talks
 
 Below is a list of all public speaking gigs I've done, ordered from most recent to oldest.
@@ -117,17 +132,3 @@ Preparing the Estonian team for EUSO ’13 (experimental methods in physics)|wor
 Preparing the Estonian team for EUSO ’13 (plotting and interpreting graphs)|workshop|120|14.02.2013||Tartu, Estonia| 
 
 
-
-## Bio
-
-Please see my [About](https://www.taivo.ai/about/) page for a short bio, and [LinkedIn](https://www.linkedin.com/in/pungas/) for details.
-
-## Speaker photos
-
-Please see [/photos] for two types of headshots. I prefer using the cartoon image where possible.
-
-
-## Contact
-* Email: [taivo@pungas.ee](mailto:taivo@pungas.ee)
-* Personal blog: [taivo.ai](https://taivo.ai/)
-* [LinkedIn](https://www.linkedin.com/in/pungas/)
